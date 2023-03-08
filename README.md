@@ -1,0 +1,1 @@
+#repositorio bla bla referente aos script SDQL
